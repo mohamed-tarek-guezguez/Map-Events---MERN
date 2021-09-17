@@ -1,4 +1,3 @@
-# Map-Events---MERN
 ## Map Events - MERN
 
 <br>
